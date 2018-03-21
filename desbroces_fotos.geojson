@@ -1,0 +1,1699 @@
+{
+	"name" : "desbroces_imagenes",
+	"type" : "FeatureCollection",
+	"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.6898216666677532, 42.311204999461715, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34470.jpg",
+				"Name" : "IMG17_34470.jpg",
+				"ID1" : 1
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.6898216666677532, 42.311204999461715, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34471.jpg",
+				"Name" : "IMG17_34471.jpg",
+				"ID1" : 2
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.6898216666677532, 42.311204999461715, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34472.jpg",
+				"Name" : "IMG17_34472.jpg",
+				"ID1" : 3
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.6898216666677532, 42.311204999461715, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34473.jpg",
+				"Name" : "IMG17_34473.jpg",
+				"ID1" : 4
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.6898216666677532, 42.311204999461715, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34474.jpg",
+				"Name" : "IMG17_34474.jpg",
+				"ID1" : 5
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.6898216666677532, 42.311204999461715, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34475.jpg",
+				"Name" : "IMG17_34475.jpg",
+				"ID1" : 6
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.6835966666721, 42.303179999461484, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34478.jpg",
+				"Name" : "IMG17_34478.jpg",
+				"ID1" : 7
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.6835966666721, 42.303179999461484, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34480.jpg",
+				"Name" : "IMG17_34480.jpg",
+				"ID1" : 8
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.684839999997719, 42.30305666612978, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34485.jpg",
+				"Name" : "IMG17_34485.jpg",
+				"ID1" : 9
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.684839999997719, 42.30305666612978, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34486.jpg",
+				"Name" : "IMG17_34486.jpg",
+				"ID1" : 10
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.684839999997719, 42.30305666612978, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34487.jpg",
+				"Name" : "IMG17_34487.jpg",
+				"ID1" : 11
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.6857283333368245, 42.302953332796534, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34492.jpg",
+				"Name" : "IMG17_34492.jpg",
+				"ID1" : 12
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.6857283333368245, 42.302953332796534, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34493.jpg",
+				"Name" : "IMG17_34493.jpg",
+				"ID1" : 13
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.686699999996055, 42.30187833279282, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34494.jpg",
+				"Name" : "IMG17_34494.jpg",
+				"ID1" : 14
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.686699999996055, 42.30187833279282, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34495.jpg",
+				"Name" : "IMG17_34495.jpg",
+				"ID1" : 15
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.688320000000316, 42.299584999457736, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34497.jpg",
+				"Name" : "IMG17_34497.jpg",
+				"ID1" : 16
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.6888533333325655, 42.29975999946091, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34499.jpg",
+				"Name" : "IMG17_34499.jpg",
+				"ID1" : 17
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.6888533333325655, 42.29975999946091, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34500.jpg",
+				"Name" : "IMG17_34500.jpg",
+				"ID1" : 18
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.6888533333325655, 42.29975999946091, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34501.jpg",
+				"Name" : "IMG17_34501.jpg",
+				"ID1" : 19
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.6888533333325655, 42.29975999946091, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34502.jpg",
+				"Name" : "IMG17_34502.jpg",
+				"ID1" : 20
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.6888533333325655, 42.29975999946091, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34504.jpg",
+				"Name" : "IMG17_34504.jpg",
+				"ID1" : 21
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.6888533333325655, 42.29975999946091, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34505.jpg",
+				"Name" : "IMG17_34505.jpg",
+				"ID1" : 22
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.6888533333325655, 42.29975999946091, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34507.jpg",
+				"Name" : "IMG17_34507.jpg",
+				"ID1" : 23
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.689576666665634, 42.29929166612486, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34508.jpg",
+				"Name" : "IMG17_34508.jpg",
+				"ID1" : 24
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.689576666665634, 42.29929166612486, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34509.jpg",
+				"Name" : "IMG17_34509.jpg",
+				"ID1" : 25
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.689576666665634, 42.29929166612486, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34511.jpg",
+				"Name" : "IMG17_34511.jpg",
+				"ID1" : 26
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.689576666665634, 42.29929166612486, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34512.jpg",
+				"Name" : "IMG17_34512.jpg",
+				"ID1" : 27
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.690836666668264, 42.29907166612576, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34517.jpg",
+				"Name" : "IMG17_34517.jpg",
+				"ID1" : 28
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.690836666668264, 42.29907166612576, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34518.jpg",
+				"Name" : "IMG17_34518.jpg",
+				"ID1" : 29
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.689588333334489, 42.29925333279474, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34519.jpg",
+				"Name" : "IMG17_34519.jpg",
+				"ID1" : 30
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.6894466666621604, 42.29928166612748, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34520.jpg",
+				"Name" : "IMG17_34520.jpg",
+				"ID1" : 31
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.6889083333359545, 42.29962166613028, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34522.jpg",
+				"Name" : "IMG17_34522.jpg",
+				"ID1" : 32
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.6889083333359545, 42.29962166613028, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34523.jpg",
+				"Name" : "IMG17_34523.jpg",
+				"ID1" : 33
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.6889083333366615, 42.29962833279508, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34524.jpg",
+				"Name" : "IMG17_34524.jpg",
+				"ID1" : 34
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.68812333333788, 42.29958499945632, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34525.jpg",
+				"Name" : "IMG17_34525.jpg",
+				"ID1" : 35
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.6868066666679273, 42.3020283327917, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34526.jpg",
+				"Name" : "IMG17_34526.jpg",
+				"ID1" : 36
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.686771666663476, 42.30218333279431, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34527.jpg",
+				"Name" : "IMG17_34527.jpg",
+				"ID1" : 37
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.686781666667489, 42.30218166612655, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34528.jpg",
+				"Name" : "IMG17_34528.jpg",
+				"ID1" : 38
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.686669999997607, 42.302123332790686, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34529.jpg",
+				"Name" : "IMG17_34529.jpg",
+				"ID1" : 39
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.763273333334797, 42.22165333278975, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34530.jpg",
+				"Name" : "IMG17_34530.jpg",
+				"ID1" : 40
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.7632433333331385, 42.22166666613126, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34531.jpg",
+				"Name" : "IMG17_34531.jpg",
+				"ID1" : 41
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.7632433333331385, 42.22166666613126, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34533.jpg",
+				"Name" : "IMG17_34533.jpg",
+				"ID1" : 42
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.7632433333331385, 42.22166666613126, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34534.jpg",
+				"Name" : "IMG17_34534.jpg",
+				"ID1" : 43
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.7632433333331385, 42.22166666613126, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34535.jpg",
+				"Name" : "IMG17_34535.jpg",
+				"ID1" : 44
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.767200000001127, 42.22230666612344, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34538.jpg",
+				"Name" : "IMG17_34538.jpg",
+				"ID1" : 45
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.767200000001127, 42.22230666612344, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34539.jpg",
+				"Name" : "IMG17_34539.jpg",
+				"ID1" : 46
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.767200000001127, 42.22230666612344, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34540.jpg",
+				"Name" : "IMG17_34540.jpg",
+				"ID1" : 47
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.767200000001127, 42.22230666612344, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34541.jpg",
+				"Name" : "IMG17_34541.jpg",
+				"ID1" : 48
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.768384999999817, 42.22198333279659, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34542.jpg",
+				"Name" : "IMG17_34542.jpg",
+				"ID1" : 49
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.768384999999817, 42.22198333279659, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34543.jpg",
+				"Name" : "IMG17_34543.jpg",
+				"ID1" : 50
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.770321666663119, 42.22120666613038, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34546.jpg",
+				"Name" : "IMG17_34546.jpg",
+				"ID1" : 51
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.770321666663119, 42.22120666613038, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34547.jpg",
+				"Name" : "IMG17_34547.jpg",
+				"ID1" : 52
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.770321666663119, 42.22120666613038, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34548.jpg",
+				"Name" : "IMG17_34548.jpg",
+				"ID1" : 53
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.770321666663119, 42.22120666613038, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34549.jpg",
+				"Name" : "IMG17_34549.jpg",
+				"ID1" : 54
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.770321666663119, 42.22120666613038, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34550.jpg",
+				"Name" : "IMG17_34550.jpg",
+				"ID1" : 55
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.770321666663119, 42.22120666613038, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34551.jpg",
+				"Name" : "IMG17_34551.jpg",
+				"ID1" : 56
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.770321666663119, 42.22120666613038, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34553.jpg",
+				"Name" : "IMG17_34553.jpg",
+				"ID1" : 57
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.7682466666657555, 42.220808332795734, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34554.jpg",
+				"Name" : "IMG17_34554.jpg",
+				"ID1" : 58
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.7682466666657555, 42.220808332795734, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34555.jpg",
+				"Name" : "IMG17_34555.jpg",
+				"ID1" : 59
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.7682466666657555, 42.220808332795734, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34557.jpg",
+				"Name" : "IMG17_34557.jpg",
+				"ID1" : 60
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.7682466666657555, 42.220808332795734, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34558.jpg",
+				"Name" : "IMG17_34558.jpg",
+				"ID1" : 61
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.7682466666657555, 42.220808332795734, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34559.jpg",
+				"Name" : "IMG17_34559.jpg",
+				"ID1" : 62
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.7682466666657555, 42.220808332795734, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34560.jpg",
+				"Name" : "IMG17_34560.jpg",
+				"ID1" : 63
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.7682466666657555, 42.220808332795734, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34561.jpg",
+				"Name" : "IMG17_34561.jpg",
+				"ID1" : 64
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.7682466666657555, 42.220808332795734, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34562.jpg",
+				"Name" : "IMG17_34562.jpg",
+				"ID1" : 65
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.7675266666675604, 42.22158499945631, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34563.jpg",
+				"Name" : "IMG17_34563.jpg",
+				"ID1" : 66
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.767501666661478, 42.22163333279022, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34564.jpg",
+				"Name" : "IMG17_34564.jpg",
+				"ID1" : 67
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.7673166666607703, 42.221784999459004, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34565.jpg",
+				"Name" : "IMG17_34565.jpg",
+				"ID1" : 68
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.7673166666607703, 42.221784999459004, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34566.jpg",
+				"Name" : "IMG17_34566.jpg",
+				"ID1" : 69
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.7673166666607703, 42.221784999459004, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34567.jpg",
+				"Name" : "IMG17_34567.jpg",
+				"ID1" : 70
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.766721666664013, 42.221203332797096, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34570.jpg",
+				"Name" : "IMG17_34570.jpg",
+				"ID1" : 71
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.764945000005394, 42.22187166612383, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34571.jpg",
+				"Name" : "IMG17_34571.jpg",
+				"ID1" : 72
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.7628566666673358, 42.22165999945656, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34573.jpg",
+				"Name" : "IMG17_34573.jpg",
+				"ID1" : 73
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.7618700000024425, 42.22158999946338, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34574.jpg",
+				"Name" : "IMG17_34574.jpg",
+				"ID1" : 74
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.7618700000024425, 42.22158999946338, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34575.jpg",
+				"Name" : "IMG17_34575.jpg",
+				"ID1" : 75
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.761273333331828, 42.22182666612901, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34576.jpg",
+				"Name" : "IMG17_34576.jpg",
+				"ID1" : 76
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.761273333331828, 42.22182666612901, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34577.jpg",
+				"Name" : "IMG17_34577.jpg",
+				"ID1" : 77
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.7606999999988884, 42.221843332797775, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34578.jpg",
+				"Name" : "IMG17_34578.jpg",
+				"ID1" : 78
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.760496666661201, 42.221979999460814, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34579.jpg",
+				"Name" : "IMG17_34579.jpg",
+				"ID1" : 79
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.760496666661201, 42.221979999460814, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34580.jpg",
+				"Name" : "IMG17_34580.jpg",
+				"ID1" : 80
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.7601649999998177, 42.2241316661247, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34581.jpg",
+				"Name" : "IMG17_34581.jpg",
+				"ID1" : 81
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.7601183333388306, 42.224203332794545, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34582.jpg",
+				"Name" : "IMG17_34582.jpg",
+				"ID1" : 82
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.759831666665826, 42.22402499945638, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34583.jpg",
+				"Name" : "IMG17_34583.jpg",
+				"ID1" : 83
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.759793333333367, 42.22382666612303, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34584.jpg",
+				"Name" : "IMG17_34584.jpg",
+				"ID1" : 84
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.7601533333303134, 42.22368333279353, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34585.jpg",
+				"Name" : "IMG17_34585.jpg",
+				"ID1" : 85
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.7603100000038254, 42.223478332797534, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34586.jpg",
+				"Name" : "IMG17_34586.jpg",
+				"ID1" : 86
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.7606400000060614, 42.22330333279721, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34587.jpg",
+				"Name" : "IMG17_34587.jpg",
+				"ID1" : 87
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.7606400000060614, 42.22330333279721, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34588.jpg",
+				"Name" : "IMG17_34588.jpg",
+				"ID1" : 88
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.7606400000060614, 42.22330333279721, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34589.jpg",
+				"Name" : "IMG17_34589.jpg",
+				"ID1" : 89
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.761024999997199, 42.223108332793615, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34590.jpg",
+				"Name" : "IMG17_34590.jpg",
+				"ID1" : 90
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.7612200000050295, 42.22310666612314, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34593.jpg",
+				"Name" : "IMG17_34593.jpg",
+				"ID1" : 91
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.7612200000050295, 42.22310666612314, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34594.jpg",
+				"Name" : "IMG17_34594.jpg",
+				"ID1" : 92
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.7615433333343415, 42.22288166613134, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34595.jpg",
+				"Name" : "IMG17_34595.jpg",
+				"ID1" : 93
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.7616816666649493, 42.22258166613093, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34596.jpg",
+				"Name" : "IMG17_34596.jpg",
+				"ID1" : 94
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.762521666662984, 42.22244666612955, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34600.jpg",
+				"Name" : "IMG17_34600.jpg",
+				"ID1" : 95
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.762521666662984, 42.22244666612955, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34601.jpg",
+				"Name" : "IMG17_34601.jpg",
+				"ID1" : 96
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.762521666662984, 42.22244666612955, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34602.jpg",
+				"Name" : "IMG17_34602.jpg",
+				"ID1" : 97
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.7625150000038237, 42.222356666125584, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34604.jpg",
+				"Name" : "IMG17_34604.jpg",
+				"ID1" : 98
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.7625150000038237, 42.222356666125584, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34605.jpg",
+				"Name" : "IMG17_34605.jpg",
+				"ID1" : 99
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.7625150000038237, 42.222356666125584, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34606.jpg",
+				"Name" : "IMG17_34606.jpg",
+				"ID1" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.7625483333317167, 42.22225833279361, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34607.jpg",
+				"Name" : "IMG17_34607.jpg",
+				"ID1" : 101
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.7595766666684822, 42.22427333279574, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34608.jpg",
+				"Name" : "IMG17_34608.jpg",
+				"ID1" : 102
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.7595766666684822, 42.22427333279574, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34609.jpg",
+				"Name" : "IMG17_34609.jpg",
+				"ID1" : 103
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.7595766666684822, 42.22427333279574, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34610.jpg",
+				"Name" : "IMG17_34610.jpg",
+				"ID1" : 104
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.762081666670192, 42.225258332790354, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34611.jpg",
+				"Name" : "IMG17_34611.jpg",
+				"ID1" : 105
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.762081666670192, 42.225258332790354, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34612.jpg",
+				"Name" : "IMG17_34612.jpg",
+				"ID1" : 106
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.762113333334552, 42.22518666612754, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34613.jpg",
+				"Name" : "IMG17_34613.jpg",
+				"ID1" : 107
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.762115000000528, 42.22518333279287, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34614.jpg",
+				"Name" : "IMG17_34614.jpg",
+				"ID1" : 108
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.7621116666617023, 42.225183332796796, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34615.jpg",
+				"Name" : "IMG17_34615.jpg",
+				"ID1" : 109
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.7621766666705927, 42.22522166613183, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34616.jpg",
+				"Name" : "IMG17_34616.jpg",
+				"ID1" : 110
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.760071666671364, 42.2255133327935, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34617.jpg",
+				"Name" : "IMG17_34617.jpg",
+				"ID1" : 111
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.75791166666161, 42.22747333279723, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34618.jpg",
+				"Name" : "IMG17_34618.jpg",
+				"ID1" : 112
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.75791166666161, 42.22747333279723, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34619.jpg",
+				"Name" : "IMG17_34619.jpg",
+				"ID1" : 113
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.757911666667706, 42.227471666127116, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34620.jpg",
+				"Name" : "IMG17_34620.jpg",
+				"ID1" : 114
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.767150000000611, 42.22726166612668, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34621.jpg",
+				"Name" : "IMG17_34621.jpg",
+				"ID1" : 115
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.767150000000611, 42.22726166612668, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34622.jpg",
+				"Name" : "IMG17_34622.jpg",
+				"ID1" : 116
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.76720333333888, 42.227253332790355, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34623.jpg",
+				"Name" : "IMG17_34623.jpg",
+				"ID1" : 117
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.7692066666656534, 42.22924666613052, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34624.jpg",
+				"Name" : "IMG17_34624.jpg",
+				"ID1" : 118
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.76919500000263, 42.22920333279382, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34625.jpg",
+				"Name" : "IMG17_34625.jpg",
+				"ID1" : 119
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.769235000000667, 42.22919833279264, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34626.jpg",
+				"Name" : "IMG17_34626.jpg",
+				"ID1" : 120
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.7692216666727343, 42.22919999945826, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34627.jpg",
+				"Name" : "IMG17_34627.jpg",
+				"ID1" : 121
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.7690649999983505, 42.22921166613027, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34628.jpg",
+				"Name" : "IMG17_34628.jpg",
+				"ID1" : 122
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.769023333333375, 42.22917999945783, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34629.jpg",
+				"Name" : "IMG17_34629.jpg",
+				"ID1" : 123
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.769038333333413, 42.229171666123726, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34630.jpg",
+				"Name" : "IMG17_34630.jpg",
+				"ID1" : 124
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.7691349999981387, 42.22925499945926, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34631.jpg",
+				"Name" : "IMG17_34631.jpg",
+				"ID1" : 125
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.7691349999981387, 42.22925499945926, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34632.jpg",
+				"Name" : "IMG17_34632.jpg",
+				"ID1" : 126
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.769214999996315, 42.229296666129756, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34633.jpg",
+				"Name" : "IMG17_34633.jpg",
+				"ID1" : 127
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.7474600000030565, 42.235786666124156, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34635.jpg",
+				"Name" : "IMG17_34635.jpg",
+				"ID1" : 128
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.7476366666669785, 42.236601666128166, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34636.jpg",
+				"Name" : "IMG17_34636.jpg",
+				"ID1" : 129
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.7476366666669785, 42.236601666128166, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34637.jpg",
+				"Name" : "IMG17_34637.jpg",
+				"ID1" : 130
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.7476366666669785, 42.236601666128166, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34638.jpg",
+				"Name" : "IMG17_34638.jpg",
+				"ID1" : 131
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.7476366666669785, 42.236601666128166, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34639.jpg",
+				"Name" : "IMG17_34639.jpg",
+				"ID1" : 132
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.7476366666669785, 42.236601666128166, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34640.jpg",
+				"Name" : "IMG17_34640.jpg",
+				"ID1" : 133
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.7441816666710896, 42.241066666131395, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34641.jpg",
+				"Name" : "IMG17_34641.jpg",
+				"ID1" : 134
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.742928333332923, 42.243884999459766, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34642.jpg",
+				"Name" : "IMG17_34642.jpg",
+				"ID1" : 135
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.742928333332923, 42.243884999459766, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34643.jpg",
+				"Name" : "IMG17_34643.jpg",
+				"ID1" : 136
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.742928333332923, 42.243884999459766, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34644.jpg",
+				"Name" : "IMG17_34644.jpg",
+				"ID1" : 137
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.743000000005004, 42.24396333279563, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34645.jpg",
+				"Name" : "IMG17_34645.jpg",
+				"ID1" : 138
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.743000000005004, 42.24396333279563, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34646.jpg",
+				"Name" : "IMG17_34646.jpg",
+				"ID1" : 139
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.743000000005004, 42.24396333279563, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34647.jpg",
+				"Name" : "IMG17_34647.jpg",
+				"ID1" : 140
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -2.742870000000051, 42.243883332792585, 0 ]
+			},
+			"properties" : {
+				"Description" : "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34648.jpg",
+				"Name" : "IMG17_34648.jpg",
+				"ID1" : 141
+			}
+		}
+	]
+}
