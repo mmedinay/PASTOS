@@ -214,7 +214,10 @@
         ]
       },
       "properties": {
-        "Description": "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34493.jpg",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Description": "<a href=\"https://github.com/mmedinay/PASTOS/blob/master/IMG17_34475.jpg\" target=\"Foto_del_desbroce\" style=\"padding-left: 2em; display: block;\">                   Foto georreferenciada <span style=\"font-style: italic;\"> &nbsp;(jpg)</span> </a>",
         "Name": "IMG17_34493.jpg",
         "ID1": 13
       }
