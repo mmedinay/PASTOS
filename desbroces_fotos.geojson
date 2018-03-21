@@ -634,7 +634,10 @@
         ]
       },
       "properties": {
-        "Description": "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34529.jpg",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Description": "<a href=\"https://github.com/mmedinay/PASTOS/blob/master/003_relacion_recintos_pasto.mdb\" target=\"relacion_recintos_pasto\" style=\"padding-left: 2em; display: block;\">                   Relación de recintos de pasto <span style=\"font-style: italic;\"> &nbsp;(mdb)</span> </a>",
         "Name": "IMG17_34529.jpg",
         "ID1": 39
       }
