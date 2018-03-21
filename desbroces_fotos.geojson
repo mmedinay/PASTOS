@@ -95,7 +95,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "Description": "<a href=\"ftp://ftp.larioja.org/sig/tmt/t004/pdf/4063_1.pdf\" target=\"_blank\">Enlace</a>",
+        "Description": "<a href=\"V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34475.jpg\" target=\"_blank\">Ver foto</a>",
         "Name": "IMG17_34475.jpg",
         "ID1": 6
       }
@@ -127,7 +127,10 @@
         ]
       },
       "properties": {
-        "Description": "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34480.jpg",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Description": "<img style=\"max-width:500px;\" src=\"file:///V:/SECCION SIG/PO-0407 Mantenimiento Bases Comunales Forrajeras/DESBROCES/2017/desbroces_MUP/CAMPO/DESBROCES_FOTOS/IMG17_34473.jpg\">",
         "Name": "IMG17_34480.jpg",
         "ID1": 8
       }
@@ -257,7 +260,8 @@
       "properties": {
         "Description": "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34497.jpg",
         "Name": "IMG17_34497.jpg",
-        "ID1": 16
+        "ID1": 16,
+        "marker-color": ""
       }
     },
     {
