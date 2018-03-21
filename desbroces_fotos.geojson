@@ -178,10 +178,12 @@
         ]
       },
       "properties": {
-        "Description": "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34487.jpg",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Description": "<a onclick=\"mapa_iderioja.showDocs(event, 4065);\" target=\"DOCUMENTOS_DE_UN ELEMENTO_DE_LA_TMT\" href=\"https://ias1.larioja.org/iderioja/archivosTMT?codPadre=4065|T004\" title=\"Documentos de un elemento en una ventana nueva\"> 2 Documentos </a>",
         "Name": "IMG17_34487.jpg",
         "ID1": 11,
-        "marker-color": ""
+        "marker-color": "#000000"
       }
     },
     {
