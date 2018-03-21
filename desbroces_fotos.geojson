@@ -95,7 +95,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "Description": "<a href=\"https://raw.githubusercontent.com/mmedinay/PASTOS/master/IMG17_34475.jpg\" target=\"_parent\">Ver foto</a>",
+        "Description": "<a href=\"https://raw.githubusercontent.com/mmedinay/PASTOS/master/IMG17_34475.jpg\" target=\"_self\">Ver foto</a>",
         "Name": "IMG17_34475.jpg",
         "ID1": 6
       }
