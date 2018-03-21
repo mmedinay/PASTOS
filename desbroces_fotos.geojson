@@ -95,7 +95,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "Description": "<a href=\"https://github.com/mmedinay/PASTOS/blob/master/IMG17_34475.jpg\" target=\"_blank\">Ver foto</a>",
+        "Description": "<a href=\"https://raw.githubusercontent.com/mmedinay/PASTOS/master/IMG17_34475.jpg\" target=\"_blank\">Ver foto</a>",
         "Name": "IMG17_34475.jpg",
         "ID1": 6
       }
@@ -130,7 +130,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "Description": "<img style=\"max-width:500px;\" src=\" https://github.com/mmedinay/PASTOS/blob/master/IMG17_34475.jpg\">",
+        "Description": "<img style=\"max-width:500px;\" src=\"https://github.com/mmedinay/PASTOS/blob/master/IMG17_34475.jpg\">",
         "Name": "IMG17_34480.jpg",
         "ID1": 8
       }
@@ -197,7 +197,8 @@
       "properties": {
         "Description": "V:\\SECCION SIG\\PO-0407 Mantenimiento Bases Comunales Forrajeras\\DESBROCES\\2017\\desbroces_MUP\\CAMPO\\DESBROCES_FOTOS\\IMG17_34492.jpg",
         "Name": "IMG17_34492.jpg",
-        "ID1": 12
+        "ID1": 12,
+        "marker-color": ""
       }
     },
     {
