@@ -67,14 +67,14 @@
         });
         
         
-  var countriesJS = L.geoJson(countries, {
+  var aguilar_del_rio_alhamaJS = L.geoJson(aguilar_del_rio_alhama, {
 			onEachFeature: popup,
 			style: style
 		}).addTo(map);
  
 	var searchControl = new L.Control.Search({
-		layer: countriesJS, 
-		propertyName: 'name',
+		layer: aguilar_del_rio_alhamaJS, 
+		propertyName: 'REFERENCIA DEL RECINTO SIGPAC',
 		circleLocation: false
 	});
  
@@ -82,8 +82,8 @@
 		e.layer.setStyle({fillColor: '#3f0', color: '#0f0'});
 	})
 	.on('search_collapsed', function(e) {
-		countriesJS.eachLayer(function(layer) { //restauramos el color del elemento
-			countriesJS.resetStyle(layer);
+		aguilar_del_rio_alhamaJS.eachLayer(function(layer) { //restauramos el color del elemento
+			aguilar_del_rio_alhamaJS.resetStyle(layer);
 		});	
 	});
 	
