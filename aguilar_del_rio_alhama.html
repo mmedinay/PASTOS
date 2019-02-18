@@ -29,8 +29,12 @@
     }
     </style>
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+
+ <script src="leaflet-search-master\src\leaflet-search.js"></script>
+<link rel="stylesheet" href="leaflet-search-master\src\leaflet-search.css" />
+ 
   </head>
-  <body>
+    <body>
   <div id="botones">
      <button type="button" id="z_todo">Zoom a todo</button>
      </div>
@@ -61,5 +65,29 @@
     $iderioja_ready(function () {
          mapa_iderioja.crea_boton('fa fa-crosshairs', "ir_a_todo", []);
         });
+        
+        
+  var countriesJS = L.geoJson(countries, {
+			onEachFeature: popup,
+			style: style
+		}).addTo(map);
+ 
+	var searchControl = new L.Control.Search({
+		layer: countriesJS, 
+		propertyName: 'name',
+		circleLocation: false
+	});
+ 
+	searchControl.on('search_locationfound', function(e) {
+		e.layer.setStyle({fillColor: '#3f0', color: '#0f0'});
+	})
+	.on('search_collapsed', function(e) {
+		countriesJS.eachLayer(function(layer) { //restauramos el color del elemento
+			countriesJS.resetStyle(layer);
+		});	
+	});
+	
+	map.addControl(searchControl);     
+    
   </script>
   </html>
