@@ -1,4 +1,4 @@
-{
+var aguilar_del_rio_alhama ={
 	"type" : "FeatureCollection",
 	"name" : "BC2019_4326_PARA_HTML","crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } }
 	,"features" : [
