@@ -66,14 +66,14 @@
         });
         
         
-  var aguilar_del_rio_alhamaJS = L.geoJson(aguilar_del_rio_alhama, {
+  var aguilar_del_rio_alhama = L.geoJson(aguilar_del_rio_alhama, {
 			onEachFeature: popup,
 			style: style
 		}).addTo(map);
  
 	var searchControl = new L.Control.Search({
-		layer: aguilar_del_rio_alhamaJS, 
-		propertyName: 'POLIGONO',
+		layer: aguilar_del_rio_alhama, 
+		propertyName: 'REFERENCIA DEL RECINTO SIGPAC',
 		circleLocation: false
 	});
  
@@ -81,8 +81,8 @@
 		e.layer.setStyle({fillColor: '#3f0', color: '#0f0'});
 	})
 	.on('search_collapsed', function(e) {
-		aguilar_del_rio_alhamaJS.eachLayer(function(layer) { //restauramos el color del elemento
-			aguilar_del_rio_alhamaJS.resetStyle(layer);
+		aguilar_del_rio_alhama.eachLayer(function(layer) { //restauramos el color del elemento
+			aguilar_del_rio_alhama.resetStyle(layer);
 		});	
 	});
 	
