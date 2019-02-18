@@ -4,14 +4,15 @@
 <head>
 	<script src="leaflet\leaflet.js"></script>
 	 <link rel="stylesheet" href="leaflet\leaflet.css"/>
-	 <script type="text/javascript" src="https://raw.githubusercontent.com/mmedinay/PASTOS/master/aguilar_del_rio_alhama.js"></script>
+	 <script type="text/javascript" src="aguilar_del_rio_alhama.js"></script>
 	 <script src="leaflet-search-master\src\leaflet-search.js"></script>
 	 <link rel="stylesheet" href="leaflet-search-master\src\leaflet-search.css" />
  
  <style>
   #map { 
+	  top: 10px;
 	  width: 100%;
-	  height: 600px;
+	  height: 100%;
 	  box-shadow: 5px 5px 5px #888;
   }
  </style>
@@ -29,15 +30,17 @@
 		
 		
 	// Cargar GeoJSON desde un archivo externo
-var mapa = L.geoJson(null, {
-    onEachFeature: popup
-    });
+
+var aguilar_del_rio_alhamaJS = L.geoJson(aguilar_del_rio_alhama, {
+			onEachFeature: popup,
+			
+		}).addTo(map);
 
 $.getJSON("aguilar_del_rio_alhama.js", function (data) {
-    mapa.addData(data);
+    aguilar_del_rio_alhamaJS.addData(data);
 });
 
-mapa.addTo(map);
+aguilar_del_rio_alhamaJS.addTo(map);
 
 	L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
@@ -49,40 +52,9 @@ mapa.addTo(map);
 		'opacity': 0.6
 	};
 	
-	function getColor(d) {
-	return d > 100000000 ? '#800026' :
-	d > 50000000 ? '#BD0026' :
-	d > 20000000 ? '#E31A1C' :
-	d > 10000000 ? '#FC4E2A' :
-	d > 5000000 ? '#FD8D3C' :
-	d > 2000000 ? '#FEB24C' :
-	d > 1000000 ? '#FED976' :
-	'#FFEDA0';
-	}
-	for(var i in aguilar_del_rio_alhama.features)
-	aguilar_del_rio_alhama.features[i].properties.color = getColor( aguilar_del_rio_alhama.features[i].properties.pop_est );
 	
-	function popup(feature, layer) {
-		if (feature.properties && feature.properties.poligono) {
-			layer.bindPopup(feature.properties.poligono);
-		}
-	}
-	
-	function style(feature) {
-		return { fillColor: getColor(feature.properties.pop_est),
-		weight: 2,
-		opacity: 1,
-		color: 'white',
-		dashArray: '3',
-		fillOpacity: 0.7
-		};
-	}
 		
-	var aguilar_del_rio_alhamaJS = L.geoJson(aguilar_del_rio_alhama, {
-			onEachFeature: popup,
-			style: style
-		}).addTo(map);
- 
+	 
 	var searchControl = new L.Control.Search({
 		layer: aguilar_del_rio_alhamaJS, 
 		propertyName: 'poligono',
