@@ -38,33 +38,10 @@
      </div>
     <div id="map"></div>
   </body>
-  <script src="https://apigeo.larioja.org/v1/iderioja.js"></script>
-  <script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
+  
  <script src="leaflet-search-master\src\leaflet-search.js"></script>
   <script>
-    var iderioja_config = {"init_lat": 41.9546, "init_lng": -1.9836,
-      "zoom_inicial": 13,"estilo_hover": {"color": "chartreuse","weight": 2,"fillColor":"chartreuse","fillOpacity":0.3},
-      "capa_geojson": [
-        {"nombre": "Pastos comunales - Aguilar del Río Alhama",
-         "url": "https://raw.githubusercontent.com/mmedinay/PASTOS/master/aguilar_del_rio_alhama.geojson",
-          "estilo": {
-            "color": "#FF8000",
-            "weight": 1,
-            "opacity": 0.3,
-            
-          }
-        }
-      ],
-      "popup": 2,
-      "selector_capas": 1,"escala": 1,"minimapa": 1
-    };
-    $("#z_todo").click(function() {
-        mapa_iderioja.ir_a_todo();
-        });
-    $iderioja_ready(function () {
-         mapa_iderioja.crea_boton('fa fa-crosshairs', "ir_a_todo", []);
-        });
-        
+   
         
   var aguilar_del_rio_alhama = L.geoJson(aguilar_del_rio_alhama, {
 			onEachFeature: popup,
